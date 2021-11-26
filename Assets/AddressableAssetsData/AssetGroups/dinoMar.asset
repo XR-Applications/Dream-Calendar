@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: dinoMar
+  m_EditorClassIdentifier: 
+  m_GroupName: dinoMar
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5294a56bf6d515c4d81368bc31688115
+  m_SerializeEntries:
+  - m_GUID: cc3bd71bceb0efd4186bd6377b17e669
+    m_Address: Assets/_Aura/Scenes/DinoScenes/DinoMar.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dinomar
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b2837c6a2dc46334bbfbdc1f816877db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 448f138d89dbdd046b99c61a511de919, type: 2}
+    - {fileID: 11400000, guid: 75326f38cb2b4774ab7148794915628b, type: 2}

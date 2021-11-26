@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: spaceSep
+  m_EditorClassIdentifier: 
+  m_GroupName: spaceSep
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6ae4b858cbbaa1c418abd4f55b0cb21f
+  m_SerializeEntries:
+  - m_GUID: 25a60abbfd318a54ea7daab2884849e2
+    m_Address: Assets/_Aura/Scenes/SpaceScenes/spacesep.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spacesep
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b2837c6a2dc46334bbfbdc1f816877db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fe63ef56b3badd3478bfd440cc12713f, type: 2}
+    - {fileID: 11400000, guid: 84ddbfe650bdbe246a676fc4f3131671, type: 2}

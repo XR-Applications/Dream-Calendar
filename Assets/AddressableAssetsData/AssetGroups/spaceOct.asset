@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: spaceOct
+  m_EditorClassIdentifier: 
+  m_GroupName: spaceOct
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7adf50f226f66014bbe2c6d1497dd531
+  m_SerializeEntries:
+  - m_GUID: ccee7252873e269498f308effcf3d1bc
+    m_Address: Assets/_Aura/Scenes/SpaceScenes/spaceoct.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spaceoct
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b2837c6a2dc46334bbfbdc1f816877db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c4a622304d28ba6468467b0fa717e8db, type: 2}
+    - {fileID: 11400000, guid: a66747241e7d63e4ca06917f2d6afde6, type: 2}

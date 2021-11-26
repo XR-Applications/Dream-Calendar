@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: spaceJun
+  m_EditorClassIdentifier: 
+  m_GroupName: spaceJun
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ff1cb33dd4acf434db1527d2316151cf
+  m_SerializeEntries:
+  - m_GUID: 94a4d560a879a234db93ab5a8a6379fa
+    m_Address: Assets/_Aura/Scenes/SpaceScenes/spacejun.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spacejun
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b2837c6a2dc46334bbfbdc1f816877db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d4b840ad8fb16664e9240607d06c1efa, type: 2}
+    - {fileID: 11400000, guid: c6eb6b7880b59e3419204f056008c192, type: 2}

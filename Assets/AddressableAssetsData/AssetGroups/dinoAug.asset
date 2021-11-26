@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: dinoAug
+  m_EditorClassIdentifier: 
+  m_GroupName: dinoAug
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d669bd8e8e5ea394eaca95c6aa04eb21
+  m_SerializeEntries:
+  - m_GUID: 3a36b20063f0860439e55151b88e910e
+    m_Address: Assets/_Aura/Scenes/DinoScenes/DinoAug.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dinoaug
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b2837c6a2dc46334bbfbdc1f816877db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 889cd4b76353dc940a809343b0e6a3bf, type: 2}
+    - {fileID: 11400000, guid: 1fec618afeca5e24193e69d084130cf7, type: 2}

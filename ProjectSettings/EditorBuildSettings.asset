@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Aura/Scenes/loading.unity
+    guid: b969f17f80066d44fb4355987f339084
+  - enabled: 1
+    path: Assets/_Aura/Scenes/dinoLoading.unity
+    guid: 940d2a20f9ddfe84286868e2ee5cc370
+  - enabled: 1
+    path: Assets/_Aura/Scenes/carLoading.unity
+    guid: c9c5c827de5914248b855ab408a1915a
+  - enabled: 1
+    path: Assets/_Aura/Scenes/spaceloading.unity
+    guid: 733e69c9eb0bd114cac054313fa07c76
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 83414df9f34d6d54aaf4fc8998b91690, type: 2}

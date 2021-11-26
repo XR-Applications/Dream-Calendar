@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: carApr
+  m_EditorClassIdentifier: 
+  m_GroupName: carApr
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c0d0671ef1c16df4c8eef26fa37d114a
+  m_SerializeEntries:
+  - m_GUID: d44a7546c82a7b44296f264859d7a6f0
+    m_Address: Assets/_Aura/Scenes/CarScenes/carapr.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - carapr
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b2837c6a2dc46334bbfbdc1f816877db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dd6b85b2d39fa4d45be9c10bb6e011c0, type: 2}
+    - {fileID: 11400000, guid: 2a0db7fd21efd8748872bbd9cc1c7e19, type: 2}

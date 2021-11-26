@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: carFeb
+  m_EditorClassIdentifier: 
+  m_GroupName: carFeb
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5df9a495d0b7aaa4b8c13a499e95a01e
+  m_SerializeEntries:
+  - m_GUID: 6729a9df1427ce744890b45e3af1ea4d
+    m_Address: Assets/_Aura/Scenes/CarScenes/carfeb.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - carfeb
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b2837c6a2dc46334bbfbdc1f816877db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0d4251e66bd4d844ea9d33d6e01f4b25, type: 2}
+    - {fileID: 11400000, guid: 3a48858fed887e24abbd5c2b2eacd8e1, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: dinoNov
+  m_EditorClassIdentifier: 
+  m_GroupName: dinoNov
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 00b7f7058edb688408b774175e22f42c
+  m_SerializeEntries:
+  - m_GUID: 5d58e53471ee8fc439d84ca59b2d90ad
+    m_Address: Assets/_Aura/Scenes/DinoScenes/DinoNov.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dinonov
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b2837c6a2dc46334bbfbdc1f816877db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fe8a41d6b14abb94f9df3cb31503c59b, type: 2}
+    - {fileID: 11400000, guid: 4cebba6c4b2550949947b1d4753a13e6, type: 2}
